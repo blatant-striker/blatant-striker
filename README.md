@@ -54,10 +54,6 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=blatant-striker&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ### 🚀 Featured Projects
 - **[Password BruteForcer Simulation](https://github.com/blatant-striker/Password-BruteForcer-Simulation)**  
   A JavaScript tool that simulates brute-force and dictionary attacks to test password strength.  
@@ -90,4 +86,6 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 🌐 **Website**: [Linktree](https://linktr.ee/chaitanya.kyp)  
 📍 **LinkedIn**: [Chaitanya Kashyap](https://www.linkedin.com/in/chaitanya-kashyap-7079b2239/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+[![](https://visitcount.itsvg.in/api?id=blatant-striker&icon=0&color=0)](https://visitcount.itsvg.in)
