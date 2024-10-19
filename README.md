@@ -58,7 +58,7 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 
 ### ✍️ My Quote
 ```markdown
-“I am scared of knowing too little and a little too much.”  
+> **"I am scared of knowing too little and a little too much."**
 - BlatantStriker
 ```
 
