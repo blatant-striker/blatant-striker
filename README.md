@@ -49,11 +49,8 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### ✍️ My Quote
-**"I am scared of knowing too little and a little too much."**
+**"I am scared of knowing too little and a little too much. -Blatant"**
 
 ---
 
