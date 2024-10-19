@@ -39,9 +39,11 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 
 ---
 
-### 📈 GitHub Stats
-![Chaitanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blatant-striker&show_icons=true&count_private=true&theme=dark&hide_border=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blatant-striker&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 GitHub Contribution Stats
+![Contribution Stats](https://github.com/blatant-striker/your-image-url)  
+*Total Contributions: 416 (since Sep 21, 2023)*  
+*Longest Streak: 8 days (Jan 15 - Jan 22)*  
+*Current Streak: 0 days (as of Oct 19)*  
 
 ---
 
