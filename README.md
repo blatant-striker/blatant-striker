@@ -58,7 +58,7 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 
 ### ✍️ My Quote
 
-> **"I am scared of knowing too little and a little too much." - BlatantStriker**
+> **"I am scared of knowing too little and a little too much." - Blatant**
 
 
 ---
