@@ -1,6 +1,6 @@
 # 💻 Chaitanya Kashyap (blatant-striker)
 **IT by passion**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chaitanya-kashyap-7079b2239/) [![Linktree](https://img.shields.io/badge/Linktree-Explore-green)](https://linktr.ee/chaitanya.kyp) [![Credly](https://img.shields.io/badge/Certifications-View-orange)](https://www.credly.com/users/chaitanya-kashyap.6025dea7)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chaitanya-kashyap-7079b2239/) [![Linktree](https://img.shields.io/badge/Linktree-Explore-green)](https://linktr.ee/chaitanya.kyp) [![Credly](https://img.shields.io/badge/Certifications-View-orange)](https://www.credly.com/users/chaitanya-kashyap.6025dea7)
 
 ---
 
@@ -25,6 +25,9 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 #### **Tools & Platforms**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) 
@@ -43,6 +46,18 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=blatant-striker&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blatant-striker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### ✍️ My Quote
+**"I am scared of knowing too little and a little too much."**
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=blatant-striker&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
@@ -77,3 +92,5 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 📧 **Email**: [chaitanya.kyp@gmail.com](mailto:chaitanya.kyp@gmail.com)  
 🌐 **Website**: [Linktree](https://linktr.ee/chaitanya.kyp)  
 📍 **LinkedIn**: [Chaitanya Kashyap](https://www.linkedin.com/in/chaitanya-kashyap-7079b2239/)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
