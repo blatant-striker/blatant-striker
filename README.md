@@ -1,77 +1,78 @@
 # 💻 Chaitanya Kashyap (blatant-striker)
 **IT by passion**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chaitanya-kashyap-7079b2239/) [![Linktree](https://img.shields.io/badge/Linktree-Visit-green)](https://linktr.ee/chaitanya.kyp) [![Credly](https://img.shields.io/badge/Certifications-View-orange)](https://www.credly.com/users/chaitanya-kashyap.6025dea7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chaitanya-kashyap-7079b2239/) [![Linktree](https://img.shields.io/badge/Linktree-Explore-green)](https://linktr.ee/chaitanya.kyp) [![Credly](https://img.shields.io/badge/Certifications-View-orange)](https://www.credly.com/users/chaitanya-kashyap.6025dea7)  
 
 ---
 
 ### 🔥 About Me
-I'm a **technology professional** passionate about **cybersecurity, software development, and networking**. I have hands-on experience with **full-stack development**, **network security**, and **team management**. I enjoy exploring **ethical hacking**, building custom **gaming PCs**, and competing in **Mortal Kombat** esports.  
+I'm a **technology enthusiast** with a passion for **cybersecurity**, **software development**, and **networking**. With hands-on experience in **network security**, **full-stack development**, and **ethical hacking**, I thrive in fast-paced, problem-solving environments. From securing systems to competing in **Mortal Kombat** tournaments, I love applying my skills in both professional and creative areas.
 
-🔹 **Location**: Calgary, AB (Open for relocation)  
-🔹 **Current Role**: Lead Developer & CTO at Zephyrium Inc.  
-🔹 **Seeking Opportunities**: Networking, CyberSecurity, Technical Analyst, or Administrative roles.  
-
----
-
-### ⚡ Professional Skills
-- **Cybersecurity**: SIEM, IDS/IPS, Penetration Testing (Kali, Metasploit, Burp Suite)
-- **Networking**: Firewalls (Fortinet, Palo Alto), TCP/IP, DNS, VPNs
-- **Programming**: BASH, C, C#, JavaScript, PHP
-- **Full-Stack**: HTML, CSS, PHP, ARM Assembly
-- **Design & Media**: Photoshop, Illustrator, Premiere Pro, After Effects  
-- **Certifications**:  
-  - Cisco Certified Network Associate (CCNA)
-  - Ethical Hacker (Cisco)
-  - Endpoint Security (Cisco)  
+- **Location**: Calgary, AB (Open for relocation)  
+- **Current Role**: Lead Developer & CTO at Zephyrium Inc.  
+- **Seeking Opportunities**: Networking, Cybersecurity, Technical Analyst, or Administrative roles  
 
 ---
 
-### 🔧 Technologies & Tools
-![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat&logo=php) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-Photoshop%20%7C%20Illustrator%20%7C%20After%20Effects-FEC42C?style=flat&logo=adobe&logoColor=black)
+### 🛠️ Tech Stack
+#### **Languages & Frameworks**
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+#### **Tools & Platforms**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) 
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white)
+![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-ED1C24?style=flat&logo=palo-alto-networks&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-444444?style=flat&logo=graylog&logoColor=red)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=flat&logo=obs-studio&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-![Chaitanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blatant-striker&show_icons=true&count_private=true&theme=dark)
+### 📈 GitHub Stats
+![Chaitanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blatant-striker&show_icons=true&count_private=true&theme=dark&hide_border=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blatant-striker&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 📁 Featured Projects
-- **[Password BruteForcer Simulation](https://github.com/blatant-striker/Password-BruteForcer-Simulation)**: A tool for simulating brute-force and dictionary attacks on passwords using JavaScript.  
-- **[Deno Fork](https://github.com/blatant-striker/deno)**: Modern runtime for JavaScript and TypeScript, adapted with enhancements for my personal projects.
+### 🚀 Featured Projects
+- **[Password BruteForcer Simulation](https://github.com/blatant-striker/Password-BruteForcer-Simulation)**  
+  A JavaScript tool that simulates brute-force and dictionary attacks to test password strength.  
+
+- **[Deno Fork](https://github.com/blatant-striker/deno)**  
+  Forked version of Deno with additional customizations for personal projects, leveraging Rust for optimized runtime.  
 
 ---
 
-### 📜 Certifications
-- **CCNA Routing and Switching** - Cisco (Issued Sep 2023)  
-- **Ethical Hacker** - Cisco (Issued Feb 2024)  
-- **Endpoint Security** - Cisco (Issued June 2024)  
-- **Introduction to Cybersecurity** - Cisco (Issued July 2024)
+### 🎓 Certifications
+- **Cisco Certified Network Associate (CCNA)** - Issued Sep 2023  
+- **Certified Ethical Hacker (CEH)** - Issued Feb 2024  
+- **Endpoint Security** - Issued June 2024  
+- **Introduction to Cybersecurity** - Issued July 2024  
+- **Networking Academy Learn-A-Thon** - Issued Feb 2024  
 
 ---
 
-### 🎮 Esports & Robotics
-Competing in **Mortal Kombat** on an international level and actively participating in **robotics** and **hackathons** are some of my hobbies. I love building things, from **custom PCs** to **bots**, and working on innovative solutions.
+### ⚡ Fun Facts & Hobbies
+- Competing in **Mortal Kombat** tournaments internationally 🕹️  
+- Building and optimizing custom **Gaming PCs**  
+- Participating in **Cybersecurity Hackathons** and **Capture the Flag (CTF)** challenges  
+- Member of the **St. Clair College Esports team**  
+- Designing robotics and contributing to **Nexus Esports Broadcasting**  
 
 ---
 
-### 🔗 Let's Connect!
+### 📬 Let's Connect
 📧 **Email**: [chaitanya.kyp@gmail.com](mailto:chaitanya.kyp@gmail.com)  
-📍 **LinkedIn**: [Chaitanya Kashyap](https://www.linkedin.com/in/chaitanya-kashyap-7079b2239/)  
-🌐 **Website**: [Linktree](https://linktr.ee/chaitanya.kyp)
-
-
-<!--
-**blatant-striker/blatant-striker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Website**: [Linktree](https://linktr.ee/chaitanya.kyp)  
+📍 **LinkedIn**: [Chaitanya Kashyap](https://www.linkedin.com/in/chaitanya-kashyap-7079b2239/)
