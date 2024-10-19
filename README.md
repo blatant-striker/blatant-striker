@@ -5,15 +5,16 @@
 ---
 
 ### 🔥 About Me
-I'm a **technology enthusiast** with a passion for **cybersecurity**, **software development**, and **networking**. With hands-on experience in **network security**, **full-stack development**, and **ethical hacking**, I thrive in fast-paced, problem-solving environments. From securing systems to competing in **Mortal Kombat** tournaments, I love applying my skills in both professional and creative areas.
+I'm a **technology enthusiast** with a passion for **cybersecurity**, **software development**, and **networking**. I thrive in fast-paced, problem-solving environments, with hands-on experience in **network security**, **full-stack development**, and **ethical hacking**. From securing systems to competing in **Mortal Kombat** tournaments, I love applying my skills in both professional and creative arenas.
 
-- **Location**: Calgary, AB (Open for relocation)  
-- **Current Role**: Lead Developer & CTO at Zephyrium Inc.  
-- **Seeking Opportunities**: Networking, Cybersecurity, Technical Analyst, or Administrative roles  
+- 🌍 **Location**: Calgary, AB (Open for relocation)  
+- 💼 **Current Role**: Lead Developer & CTO at Zephyrium Inc.  
+- 👀 **Seeking Opportunities**: Networking, Cybersecurity, Technical Analyst, or Administrative roles
 
 ---
 
 ### 🛠️ Tech Stack
+
 #### **Languages & Frameworks**
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -30,7 +31,7 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 #### **Tools & Platforms**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white)
 ![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-ED1C24?style=flat&logo=palo-alto-networks&logoColor=white)
@@ -39,6 +40,12 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=flat&logo=obs-studio&logoColor=white)
+
+#### **Additional Skills**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-6DB33F?style=flat&logo=continuous-integration&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -56,10 +63,13 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 
 ### 🚀 Featured Projects
 - **[Password BruteForcer Simulation](https://github.com/blatant-striker/Password-BruteForcer-Simulation)**  
-  A JavaScript tool that simulates brute-force and dictionary attacks to test password strength.  
+  A JavaScript tool that simulates brute-force and dictionary attacks to test password strength.
 
 - **[Deno Fork](https://github.com/blatant-striker/deno)**  
-  Forked version of Deno with additional customizations for personal projects, leveraging Rust for optimized runtime.  
+  Forked version of Deno with additional customizations for personal projects, leveraging Rust for optimized runtime.
+
+- **[Swim Team Site](https://github.com/blatant-striker/Swim-Team-Site)**  
+  A simple, responsive swim team website built using HTML, CSS, and JavaScript. 
 
 ---
 
@@ -73,18 +83,18 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 ---
 
 ### ⚡ Fun Facts & Hobbies
-- Competing in **Mortal Kombat** tournaments internationally 🕹️  
-- Building and optimizing custom **Gaming PCs**  
-- Participating in **Cybersecurity Hackathons** and **Capture the Flag (CTF)** challenges  
-- Member of the **St. Clair College Esports team**  
-- Designing robotics and contributing to **Nexus Esports Broadcasting**  
+- 🕹️ Competing in **Mortal Kombat** tournaments internationally  
+- 🛠️ Building and optimizing custom **Gaming PCs**  
+- 🛡️ Participating in **Cybersecurity Hackathons** and **Capture the Flag (CTF)** challenges  
+- 🎥 Designing robotics and contributing to **Nexus Esports Broadcasting**  
+- 🎮 Member of the **St. Clair College Esports team**
 
 ---
 
 ### 📬 Let's Connect
-📧 **Email**: [chaitanya.kyp@gmail.com](mailto:chaitanya.kyp@gmail.com)  
-🌐 **Website**: [Linktree](https://linktr.ee/chaitanya.kyp)  
-📍 **LinkedIn**: [Chaitanya Kashyap](https://www.linkedin.com/in/chaitanya-kashyap-7079b2239/)
+[![Email](https://img.shields.io/badge/Email-Mail_me-red?style=flat&logo=gmail)](mailto:chaitanya.kyp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chaitanya-kashyap-7079b2239/)
+[![Linktree](https://img.shields.io/badge/Linktree-Explore-green)](https://linktr.ee/chaitanya.kyp)
 
 ---
 
