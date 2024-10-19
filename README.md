@@ -1,15 +1,6 @@
 # 💻 Chaitanya Kashyap (blatant-striker)
 **IT by passion**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://ca.linkedin.com/in/chaitanya-kashyap-7079b2239)  
-[![GitHub](https://img.shields.io/badge/GitHub-Explore-lightgrey)](https://github.com/blatant-striker)  
-[![Resume](https://img.shields.io/badge/Resume-View-orange)](https://drive.google.com/file/d/12hbdKYU8u_CojJsMsg7gcXWEc_GbhoTN/view?usp=drivesdk)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visit-yellow)](https://leetcode.com/u/ChaitanyaKashyap/)  
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Solve-success)](https://app.hackthebox.com/profile/2097564)  
-[![Credly](https://img.shields.io/badge/Credentials-Check-green)](https://www.credly.com/users/chaitanya-kashyap.6025dea7/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-brightgreen)](https://wa.me/15198160922)  
-[![Pinterest](https://img.shields.io/badge/Pinterest-Explore-red)](https://www.pinterest.com/blatantstriker)  
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/@blatantstriker)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://ca.linkedin.com/in/chaitanya-kashyap-7079b2239)  [![GitHub](https://img.shields.io/badge/GitHub-Explore-lightgrey)](https://github.com/blatant-striker)  [![Resume](https://img.shields.io/badge/Resume-View-orange)](https://drive.google.com/file/d/12hbdKYU8u_CojJsMsg7gcXWEc_GbhoTN/view?usp=drivesdk)  [![LeetCode](https://img.shields.io/badge/LeetCode-Visit-yellow)](https://leetcode.com/u/ChaitanyaKashyap/)  [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Solve-success)](https://app.hackthebox.com/profile/2097564)  [![Credly](https://img.shields.io/badge/Credentials-Check-green)](https://www.credly.com/users/chaitanya-kashyap.6025dea7/)
 
 ---
 
