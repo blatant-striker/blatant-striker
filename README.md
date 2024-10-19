@@ -69,9 +69,9 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 
 - **[Deno Fork](https://github.com/blatant-striker/deno)**  
   Forked version of Deno with additional customizations for personal projects, leveraging Rust for optimized runtime.
-
+<!--
 - **[Swim Team Site](https://github.com/blatant-striker/Swim-Team-Site)**  
-  A simple, responsive swim team website built using HTML, CSS, and JavaScript. 
+  A simple, responsive swim team website built using HTML, CSS, and JavaScript. -->
 
 ---
 
