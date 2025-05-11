@@ -67,6 +67,9 @@ I'm a **technology enthusiast** with a passion for **cybersecurity**, **software
 - **[Password BruteForcer Simulation](https://github.com/blatant-striker/Password-BruteForcer-Simulation)**  
   A JavaScript tool that simulates brute-force and dictionary attacks to test password strength.
 
+- **[Quello-Buono---Italian-Restaurant(site)](https://github.com/blatant-striker/Quello-Buono---Italian-Restaurant)**
+  A sleek, minimalist showcase website for Quello Buono Italian restaurant, designed to demonstrate modern web development skills.
+
 - **[Deno Fork](https://github.com/blatant-striker/deno)**  
   Forked version of Deno with additional customizations for personal projects, leveraging Rust for optimized runtime.
 <!--
